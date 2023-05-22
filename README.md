@@ -4,3 +4,4 @@
 ## The year 2020 made the highest sum of revenue with a total of $1,579,337.6 with 2021 close behind with a total of $1,577,237.7.
 ## On the Items Category, the highest sum of revenue was on men products with a total of $893,505 across all four years whereas Groceries had the least sum of revenue across the years with a total of $8,354.
 ## The dashboard helps create more insights on the sales data with the use of slicers and timeline.
+[]()
