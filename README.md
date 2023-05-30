@@ -1,19 +1,19 @@
 #         Analysis-on-Household-Accessories
 ## Overview : This is a Dataleum class project which cuts across Four financial years 2019 - 2022, within Eight States in Australia, Ten Items Categories and Two Chain categories.
 
-Data Analysis and Visualization using Microsoft Excel
+**Data Analysis and Visualization using Microsoft Excel**
 
-I took my time to go through the data, cleaned it and created a new attribute column to enable me analyze and visualize it effectively.
+**I took my time to go through the data, cleaned it and created a new attribute column to enable me analyze and visualize it effectively**.
 
 ## Some of the questions answered include:
 ## 1. What state made the highest revenue?
-  NSW made the highest sum of revenue with a total of $2,482,518 across the years.
+  **NSW** made the highest sum of revenue with a total of **$2,482,518** across the years.
 
 ## 2. Who was the Top buyer across the years and how many products were bought?
-   E.B. Things was the Top buyer with the revenue sum of $981,358 and count order ID of 7,139.
+   **E.B. Things** was the Top buyer with the revenue sum of **$981,358** and **Count Order ID** of **7,139**.
 
 ## 3. Which year made the most revenue?
-   The year 2020 made the highest sum of revenue with a total of $3,182,597.70 with 2021 close behind with a total of $3,150,041,60.
+   The year **2020** made the highest sum of revenue with a total of **$3,182,597.70** with **2021** close behind with a total of **$3,150,041,60**.
 
 ## 4. What year made the least amount of money?
    2019 and 2022 made the least revenue with a total of $1,059,758.10 and $1,035,500.60 respectively because No products were sold in the first and second Quater of 2019 and no        products were also sold in the third and fourth quater of 2022.
