@@ -36,16 +36,14 @@ I took my time to go through the data, cleaned it and created a new attribute co
    2019 and 2022 made the least revenue with a total of $521,932.00 and $508,808.30 respectively because No products were sold in the first and second Quater of 2019 and no        products were also sold in the third and fourth quater of 2022.
 
 ## 5. What product made the highest and least revenue? 
-    On Items Purchased, the highest sum of revenue was on Womens products with a total of $908,593 across all four years, 
-                                                          Mens product came second with a total of $725,380, 
-                                                          Kids products fifth with a total of $725,380, 
-                                                          Accessories came third with a total of $468,281, 
-                                                          Shoes came fourth with a total of $424,580, 
-                                                          Intimate products seventh with a total of $387,559,
-                                                          Home products sixth with a total of $344,619, 
-                                                          Juniors product eighth with a total of $211,647, 
-                                                          Hosiery products nineth with a toatal of $135,592 and             
-                                                          Groceries had the least sum of revenue across the years with a total of $67,824.
+    On Items Purchased, the highest sum of revenue was on Womens products with a total of $908,593 across all four years, Mens product came second with a total of $725,380, Kids     products third with a total of $725,380, Accessories came fourth with a total of $468,281, Shoes came fifth with a total of $424,580,  Intimate products sixth with a total       of $387,559, Home products seventh with a total of $344,619, Juniors product eighth with a total of $211,647, Hosiery products nineth with a toatal of $135,592 and Groceries     had the least sum of revenue across the years with a total of $67,824.
+                                                         
+                                                           
+                                                         
+                                                           
+                                                           
+                                                                       
+                                                          
 The dashboard helps create more insights on the sales data with the use of slicers and Timeline.
 
 
