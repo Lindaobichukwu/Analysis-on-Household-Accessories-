@@ -72,4 +72,7 @@ On Items Purchased, the **highest** sum of revenue was on **Mens** products with
 The dashboard helps create more **Insights** on the sales data with the use of **Slicers** and **Timeline**.
 
 
+![](https://github.com/Lindaobichukwu/Analysis-on-Household-Accessories-/blob/main/Capture14.PNG)
+
+
 
