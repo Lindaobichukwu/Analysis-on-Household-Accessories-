@@ -55,11 +55,19 @@ On Items Purchased, the **highest** sum of revenue was on **Womens** products wi
    **2019** and **2022** made the least revenue with a total of **$537,826.10,** and **$526,692.30** respectively because **No products** were sold in the **first** and **second Quater** of **2019** and **No products** were also sold in the **third** and **fourth quater** of **2022**.
 
 ## 5. What product made the highest and least revenue? 
-On Items Purchased, the **highest** sum of revenue was on **Womens** products with a total of **$908,593** across all four years, **Mens** product came **second** with a total of **$725,380**, **Kids** products **third** with a total of **$725,380**, **Accessories** came **fourth** with a total of **$468,281**, **Shoes** came **fifth** with a total of **$424,580**,  **Intimate** products **sixth** with a total of **$387,559**, **Home** products **seventh** with a total of **$344,619**, **Juniors** product **eighth** with a total of **$211,647**, **Hosiery** products **nineth** with a toatal of **$135,592** and **Groceries** had the **least** sum of revenue across the years with a total of **$67,824**.                                                           
+On Items Purchased, the **highest** sum of revenue was on **Mens** products with a total of **$893,505** across all four years, **Womens** product came **second** with a total of **$841,606**, **Shoes** products **third** with a total of **$546,632**, **Accessories** came **fourth** with a total of **$478,268**, **Home** came **fifth** with a total of **$390,921**,  **Kids** products **sixth** with a total of **$368,204**, **Intimate** products **seventh** with a total of **$319,689**, **Juniors** product **eighth** with a total of **$234,482**, **Hosiery** products **nineth** with a toatal of **$139,433** and **Groceries** had the **least** sum of revenue across the years with a total of **$8,354**.                                                           
                                                            
                                                                        
-                                                          
-The dashboard helps create more insights on the sales data with the use of slicers and Timeline.
+ # RECOMMENDATIONS
+ 1. The year **2022** made the least sum of revenue across all states meaning the Managers need to improve in their marketing abilities as it were in **2020 and 2021**.
+
+2. **More advertisment**, **Target marketing** and **Campaigns** need to be launched on **Groceries** and **Hosiery**. 
+
+3. A **Questionnaire** needs to be sent out as to why **Womens**, **Mens** and **Shoes** product are the most bought items even when most buyers never bought the products. 
+   **More marketing stretegy** need to be implemented on these top three products and Top buyers who do not buy these products need to convinced as to **How** and **Why** these    products have been loved by other top buyers.
+
+
+The dashboard helps create more **Insights** on the sales data with the use of **Slicers** and **Timeline**.
 
 
 
