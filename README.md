@@ -1,11 +1,12 @@
 #         ANALYSIS ON HOUSEHOLD ACCESSORIES
-# Overview : This is a Dataleum class project which cuts across Four financial years 2019 - 2022, within Eight States in Australia, Ten Items Categories and Two Chain categories.
+## Overview : This is a Dataleum class project which cuts across Four financial years 2019 - 2022, within Eight States in Australia, Ten Items Categories and Two Chain categories.
 
-# **Data Analysis and Visualization using Microsoft Excel**
+**Data Analysis and Visualization using Microsoft Excel**
 
 **I took my time to go through the data, cleaned it and created a new attribute column to enable me analyze and visualize it effectively**.
 
-## Some of the questions answered include:
+
+# Some of the questions answered include:
 ## 1. What state made the highest revenue?
   **NSW** made the highest sum of revenue with a total of **$2,482,518** across the years.
 
@@ -23,7 +24,8 @@
     
 
 
-## On Fashions Direct Chain Slicer
+
+# On Fashions Direct Chain Slicer
 ## 1. What state made the highest revenue?
     **NSW** made the highest sum of revenue with a total of **$1,748,526** across the years.
  
@@ -41,7 +43,7 @@ On Items Purchased, the **highest** sum of revenue was on **Womens** products wi
                                                          
                                                            
                                                          
-## On Next Look Chain Slicer
+# On Next Look Chain Slicer
 ## 1. What state made the highest revenue?
     **QLD** made the highest sum of revenue with a total of **$954,230** across the years.
  
