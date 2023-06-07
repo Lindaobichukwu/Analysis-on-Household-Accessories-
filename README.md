@@ -1,5 +1,5 @@
 #         ANALYSIS ON HOUSEHOLD ACCESSORIES
-## Overview : This is a Dataleum class project which cuts across Four financial years 2019 - 2022, within Eight States in Australia, Ten Items Categories and Two Chain categories.
+## Overview :This is a Dataleum class project which cuts across Four financial years 2019 - 2022, within Eight States in Australia, Ten Items Categories and Two Chain categories.
 
 **Data Analysis and Visualization using Microsoft Excel**
 
